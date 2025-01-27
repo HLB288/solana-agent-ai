@@ -1,0 +1,21 @@
+{
+  "name": "solana-agent-ai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/core": "^0.3.36",
+    "@langchain/langgraph": "^0.2.41",
+    "@langchain/openai": "^0.4.2",
+    "dotenv": "^16.4.7",
+    "esrun": "^3.2.26",
+    "openai": "^4.80.1",
+    "p-retry": "^6.2.1"
+  }
+}
